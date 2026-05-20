@@ -1,5 +1,5 @@
-# Pandas Challenge
-In this challenge pandas is explored to further analyze school data.
+# Exploring School Data
+Using pandas to further analyze school data.
 
 ## Written Analysis
 
